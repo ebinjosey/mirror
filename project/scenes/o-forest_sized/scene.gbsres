@@ -1,0 +1,27 @@
+{
+  "_resourceType": "scene",
+  "id": "8965904b-d34a-405e-a668-5b099683e3fd",
+  "_index": 4,
+  "type": "TOPDOWN",
+  "name": "O-Forest Sized",
+  "symbol": "scene_6",
+  "x": 632,
+  "y": 232,
+  "width": 37,
+  "height": 23,
+  "backgroundId": "4769895e-9a2e-43c8-854d-012a29e287c4",
+  "tilesetId": "",
+  "paletteIds": [
+    "",
+    "dmg"
+  ],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "autoFadeEventCollapse": false,
+  "playerSpriteSheetId": "f07abf98-6684-40ac-91b9-24b41b422988",
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "00!0f1f+006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f18+006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!005+"
+}

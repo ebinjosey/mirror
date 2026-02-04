@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "422f6e3b-d99a-4176-9804-384faccbdbf3",
+  "name": "U-House 1F",
+  "symbol": "bg_u_house_1f",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "U-House 1F.png",
+  "tileColors": "",
+  "autoColor": false
+}

@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "c276676a-8a0d-45f0-bc94-e77754b1f668",
+  "_index": 9,
+  "name": "U-House 2F",
+  "backgroundId": "eb592ab1-74de-4649-8ad0-500f2b0780bd",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "0028+0fc+008+0f!005+0f!004+0f!008+0f!005+0f!004+0fa+005+0f!00c+0f2+005+0f!00c+0f2+003+0f3+00c+0f2+009+0f2+007+0f2+009+0f2+005+0f4+009+0f2+005+0f!00!0f2+009+0f2+005+0f!00!0f2+009+0f2+005+0f!00!0f2+0010+0f4+0012+0f2+0012+0f2+0012+0f15+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_10",
+  "x": 1544,
+  "y": 248,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "f07abf98-6684-40ac-91b9-24b41b422988"
+}

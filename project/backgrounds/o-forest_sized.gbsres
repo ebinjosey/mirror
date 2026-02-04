@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "4769895e-9a2e-43c8-854d-012a29e287c4",
+  "name": "O-Forest Sized",
+  "symbol": "bg_o_forest_sized",
+  "width": 37,
+  "height": 23,
+  "imageWidth": 296,
+  "imageHeight": 184,
+  "filename": "O-Forest Sized.png",
+  "tileColors": "01353+",
+  "autoColor": false
+}

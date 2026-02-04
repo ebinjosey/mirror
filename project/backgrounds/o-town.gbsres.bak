@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "9dbf99c7-d012-4d85-877c-12c3521e73a2",
+  "name": "O-Town",
+  "symbol": "bg_o_pallet",
+  "width": 47,
+  "height": 30,
+  "imageWidth": 377,
+  "imageHeight": 246,
+  "filename": "O-Town.png",
+  "autoColor": false,
+  "tileColors": ""
+}

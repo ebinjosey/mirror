@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "dcf88e39-30f6-42a9-8aa8-5979f86fdb3d",
+  "_index": 8,
+  "name": "U-House 1F",
+  "backgroundId": "422f6e3b-d99a-4176-9804-384faccbdbf3",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "0f14+00!0f3+00f+0f!003+0f2+00e+0f!005+0ff+0013+0f!0013+0f4+0010+0f2+0012+0f2+007+0f7+004+0f2+007+0f7+004+0f2+007+0f7+004+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f2+0012+0f10+003+0f2+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_9",
+  "x": 1360,
+  "y": 248,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "f07abf98-6684-40ac-91b9-24b41b422988"
+}

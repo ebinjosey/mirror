@@ -1,0 +1,25 @@
+{
+  "_resourceType": "scene",
+  "id": "6063b618-1e9c-4b0b-9d3f-ee0745335902",
+  "_index": 5,
+  "name": "U-Forest (Hole)",
+  "backgroundId": "4ec4e237-b6a8-4b4b-8b56-f68fc2ed8199",
+  "tilesetId": "",
+  "width": 37,
+  "height": 23,
+  "type": "TOPDOWN",
+  "paletteIds": [
+    "default-bg-1",
+    "dmg"
+  ],
+  "spritePaletteIds": [],
+  "collisions": "005+0f1f+006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!006+0f18+006+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!0018+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_0",
+  "x": 992,
+  "y": 232,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

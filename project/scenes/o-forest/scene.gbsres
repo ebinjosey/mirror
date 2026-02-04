@@ -1,0 +1,29 @@
+{
+  "_resourceType": "scene",
+  "id": "6a9f85d8-012a-47eb-857d-80df3fb827d9",
+  "_index": 3,
+  "type": "TOPDOWN",
+  "name": "O-Forest",
+  "symbol": "scene_4",
+  "x": 144,
+  "y": 1176,
+  "width": 37,
+  "height": 23,
+  "backgroundId": "4769895e-9a2e-43c8-854d-012a29e287c4",
+  "tilesetId": "",
+  "paletteIds": [
+    "dmg",
+    "",
+    "",
+    "",
+    "",
+    "default-bg-1"
+  ],
+  "spritePaletteIds": [],
+  "autoFadeSpeed": 1,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "collisions": "00!0f1f+006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f18+006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!005+"
+}

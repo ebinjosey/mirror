@@ -1,0 +1,27 @@
+{
+  "_resourceType": "scene",
+  "id": "8965904b-d34a-405e-a668-5b099683e3fd",
+  "_index": 4,
+  "name": "O-Forest Sized",
+  "backgroundId": "4769895e-9a2e-43c8-854d-012a29e287c4",
+  "tilesetId": "",
+  "width": 37,
+  "height": 23,
+  "type": "TOPDOWN",
+  "paletteIds": [
+    null,
+    "dmg"
+  ],
+  "spritePaletteIds": [],
+  "collisions": "00!0f1f+006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f18+006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!001d+0f!006+0f!005+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_6",
+  "x": 632,
+  "y": 232,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "autoFadeEventCollapse": false,
+  "playerSpriteSheetId": ""
+}

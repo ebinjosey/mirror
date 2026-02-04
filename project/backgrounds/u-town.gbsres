@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "d34ec3bc-d850-4bd7-9aaf-15c4010c9c98",
+  "name": "U-Town",
+  "symbol": "bg_u_town",
+  "width": 47,
+  "height": 31,
+  "imageWidth": 376,
+  "imageHeight": 248,
+  "filename": "U-Town.png",
+  "tileColors": "",
+  "autoColor": false
+}

@@ -1,0 +1,25 @@
+{
+  "_resourceType": "scene",
+  "id": "c9096711-6cf9-470d-b9bf-90eda9dd3a9f",
+  "_index": 1,
+  "name": "O-House: F1",
+  "backgroundId": "36034662-60bc-42f5-b600-f71b47fde5b2",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [
+    "dmg",
+    "dmg"
+  ],
+  "spritePaletteIds": [],
+  "collisions": "0023+0f5+003+0f4+008+0f5+003+0f!002+0f!00!0f8+004+0f4+002+0f3+00b+04!0013+04!0012+08!04!003+0f8+007+08!04!003+0f8+007+08!04!003+0f8+007+08!04!003+0f8+007+08!04!0012+08!04!0012+08!04!0012+08!04!0011+0f2+04!0011+0f2+04!0012+08!022+003+02f+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_2",
+  "x": 440,
+  "y": 232,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

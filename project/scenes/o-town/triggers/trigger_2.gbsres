@@ -1,0 +1,66 @@
+{
+  "_resourceType": "trigger",
+  "id": "292a2a57-abe3-46a8-85cf-4398e0b04f9d",
+  "name": "",
+  "prefabId": "",
+  "x": 21,
+  "y": 8,
+  "symbol": "trigger_13",
+  "prefabScriptOverrides": {},
+  "width": 5,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "I better take the \nshortcut through \nHawk Forest."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "ac58aace-2be2-4019-a4e0-a18ff7d9e5e3"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "If I hurry, I can \nstill make it on \ntime!"
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "954eab61-defc-4b19-849d-0bbac3a5b9eb"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 1
+}

@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "68f56459-43a7-47cd-9851-9e9fc738ea82",
+  "name": "O-2F",
+  "symbol": "bg_2f",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "O-2F.png",
+  "tileColors": "",
+  "autoColor": false
+}

@@ -1,0 +1,67 @@
+{
+  "_resourceType": "trigger",
+  "id": "e79d2de9-870f-4b20-b15d-15c623941a73",
+  "name": "",
+  "prefabId": "",
+  "x": 27,
+  "y": 17,
+  "symbol": "trigger_6",
+  "prefabScriptOverrides": {},
+  "width": 3,
+  "height": 1,
+  "script": [
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Fshhhhhh. . ."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30
+      },
+      "id": "3f577cf7-2723-429f-8840-c5fd71684a22"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "The forest feels\nquieter than \nusual..."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 5,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30,
+        "__collapse": false
+      },
+      "id": "58b4d6d3-6f72-4dd7-b1a8-89a7e264585b"
+    }
+  ],
+  "leaveScript": [],
+  "_index": 0
+}
