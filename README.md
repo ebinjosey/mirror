@@ -21,4 +21,4 @@ You're running late for school and take a shortcut through Hawk Forest. You fall
 - **Arrow Keys**: Move
 - **Z**: Interact/Advance dialogue
 
-Created for Code2Play Hackathon
+Created for Code2Play Hackathon by Team Fracture.
