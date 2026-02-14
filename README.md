@@ -1,4 +1,4 @@
-# MIRROR
+ MIRROR
 
 A narrative-driven Game Boy game about confronting parallel versions of yourself.
 
@@ -22,7 +22,7 @@ You're running late for school and take a shortcut through Hawk Forest. You fall
 - **Z**: Interact/Advance dialogue
 
 ## Demo
-[**Project Demo**](https://www.youtube.com/watch?v=SjbYO2PBQbU)
---
+[Project Demo](https://www.youtube.com/watch?v=SjbYO2PBQbU)
+
 
 **Created for Code2Play Hackathon by Team Fracture.**
