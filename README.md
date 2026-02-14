@@ -22,7 +22,7 @@ You're running late for school and take a shortcut through Hawk Forest. You fall
 - **Z**: Interact/Advance dialogue
 
 ## Demo
-Full gameplay walkthrough of the MVP:[Project Demo](https://www.youtube.com/watch?v=SjbYO2PBQbU)
+Full gameplay walkthrough of the MVP: [Project Demo](https://www.youtube.com/watch?v=SjbYO2PBQbU)
 
 ---
 
