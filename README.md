@@ -1,4 +1,4 @@
- MIRROR
+# MIRROR
 
 A narrative-driven Game Boy game about confronting parallel versions of yourself.
 
@@ -9,6 +9,7 @@ You're running late for school and take a shortcut through Hawk Forest. You fall
 **Theme:** Reflection  
 **Playtime:** 5-10 minutes  
 **Platform:** Game Boy / Game Boy Color
+**Development Time:** ~6-8 hours
 
 ## Built With
 
